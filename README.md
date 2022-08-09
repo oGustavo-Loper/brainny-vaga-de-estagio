@@ -1,6 +1,6 @@
 ## Teste para vaga de estágio
 
-###### Linguagens utilizadas para desenvolver os testes: TypeScript
+###### Linguagens utilizadas para desenvolver os testes: TypeScript e Node
 
 #### Instruções para executar os testes.
 
